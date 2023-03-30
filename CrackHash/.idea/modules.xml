@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CrackHash.iml" filepath="$PROJECT_DIR$/CrackHash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrackHashManager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CrackHashManager.main.iml" />
     </modules>
   </component>
 </project>
