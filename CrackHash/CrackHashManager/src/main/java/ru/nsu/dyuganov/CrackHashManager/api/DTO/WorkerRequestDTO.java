@@ -5,7 +5,8 @@ import lombok.Data;
 import lombok.ToString;
 @Data
 @ToString
-public class CrackHashRequestDTO {
+public class WorkerRequestDTO {
+
     @JsonProperty(value = "hash", required = true)
     private String hash;
 

@@ -1,4 +1,4 @@
-package ru.nsu.dyuganov.CrackHashManager.config;
+package ru.nsu.dyuganov.CrackHashWorker.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -7,7 +7,7 @@ import org.springframework.web.client.RestTemplate;
 
 @Configuration
 @EnableScheduling
-public class Config {
+public class AppConfig {
     @Bean
     public RestTemplate restTemplate() {
         return new RestTemplate();

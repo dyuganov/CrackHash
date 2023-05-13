@@ -6,12 +6,13 @@ import lombok.Data;
 
 import java.util.List;
 
+
 @Data
 @AllArgsConstructor
 public class RequestStatusDTO {
     @JsonProperty(value = "status")
     private String status;
 
-    @JsonProperty(value = "result")
-    private List<String> result;
+    @JsonProperty(value = "data")
+    private List<String> data;
 }

@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CrackHashWorkerApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CrackHashWorkerApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(CrackHashWorkerApplication.class, args);
+    }
 
 }

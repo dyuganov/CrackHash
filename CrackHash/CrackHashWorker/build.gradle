@@ -21,7 +21,7 @@ configurations {
 }
 
 bootJar {
-	archiveBaseName = 'worker'
+	archiveBaseName = 'CrackHashWorker'
 }
 
 sourceSets {

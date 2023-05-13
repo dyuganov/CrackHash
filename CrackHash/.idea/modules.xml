@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CrackHash.iml" filepath="$PROJECT_DIR$/CrackHash.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrackHashManager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CrackHashManager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrackHashWorker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CrackHashWorker.main.iml" />
     </modules>
   </component>
 </project>
